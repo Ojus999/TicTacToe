@@ -35,7 +35,8 @@ This project is a classic Tic Tac Toe game where two players take turns marking 
 
 ## Screenshots
 
-Include screenshots or GIFs to showcase the appearance and gameplay.
+![image](https://github.com/Ojus999/TicTacToe/assets/113508437/23c627d1-6f44-4824-9a9b-4ac19f515f6d)
+
 
 ## Future Enhancements
 
@@ -55,5 +56,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [Font Awesome](https://fontawesome.com/) for game iconography.
 - [Google Fonts](https://fonts.google.com/) for the "Inter" font.
+
+## Live Deployment
+
+https://ojus999.github.io/TicTacToe/
 
 Enjoy playing Tic Tac Toe!
