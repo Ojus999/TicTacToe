@@ -36,6 +36,8 @@ This project is a classic Tic Tac Toe game where two players take turns marking 
 ## Screenshots
 
 ![image](https://github.com/Ojus999/TicTacToe/assets/113508437/23c627d1-6f44-4824-9a9b-4ac19f515f6d)
+![image](https://github.com/Ojus999/TicTacToe/assets/113508437/96e3457f-1447-480b-bb3f-536d79ac07a1)
+
 
 
 ## Future Enhancements
